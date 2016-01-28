@@ -1,0 +1,45 @@
+#container {
+	
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: lightgray;
+  padding:15px;
+}
+
+ul li {
+	display: inline;
+}
+
+img {
+	height:60%;
+	width:60%;
+}
+
+#getintouch {
+	margin-top: 10px;
+	display:flex;
+	justify-content: center;
+}
+
+#contact {
+	display:flex;
+	justify-content: center;
+}
+
+#contact img {
+	height: 3%;
+	width: 3%;
+	padding: 0 5px;
+}
+
+#copyright {
+	font-size: 0.5em;
+	color: gray;
+	font-family: arial;
+	display: flex;
+	justify-content: center;
+}
